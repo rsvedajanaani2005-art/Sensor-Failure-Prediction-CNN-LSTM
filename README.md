@@ -120,7 +120,7 @@ pip install -r requirements.txt
 
 3. Run training script:
 ```
-python train.py
+python train_cnn_lstm.py
 ```
 
 ---
@@ -129,5 +129,5 @@ python train.py
 
 - Real-time deployment for industrial monitoring  
 - Multi-fault simultaneous detection  
-- Integration with IIoT platforms  
+- Integration with IoT platforms  
 - Validation on real-world faulty sensor data  
