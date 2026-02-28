@@ -76,8 +76,7 @@ Optimizer: Adam
 ## Results
 
 ### Confusion Matrix
-
-![Confusion Matrix](outputs/confusion_matrix.png)
+<img width="741" height="549" alt="image" src="https://github.com/user-attachments/assets/a6c40e7a-fc24-4cde-b7b9-11fcfb0d1a92" />
 
 ---
 
